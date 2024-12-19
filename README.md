@@ -20,7 +20,9 @@ This repository contains some exercises done at the course **Enterprise RAG and 
 
 ### Exercises
 
-- work in progress
+- [Exercise 2a - Run locally Mistral-7B-Instruct](./Advanced_LLM_Module_2a_Mistral_7b_instruct.ipynb)
+- [Exercise 2b - Run previously application with GROK](Advanced_LLM_Module_2b_Testing_Mistral_7b_instruct.ipynb)
+- [Exercise 2c - Fine-tuning with unsloth an Urdu chatbot](./Advanced_LLM_Module_2c_Urdu_Llama.ipynb)
 
 ### Links
 - [Multi-task Language Understanding](https://paperswithcode.com/task/multi-task-language-understanding) - A collection of papers, code and evaluation results for multi-task language understanding.
