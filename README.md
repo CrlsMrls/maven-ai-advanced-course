@@ -5,8 +5,8 @@ This repository contains some exercises done at the course **Enterprise RAG and 
 ## Week 1 - Enterprise RAG Solutions with Semantic Caching
 
 ### Exercises
-- [Exercise 1a - Semantic cache using Embeddings and FAISS vector DB](./Advanced_LLMs_1a_Semantic_cache_from_scratch.ipynb)
-- [Exercise 1b - RAG application using BigQuery and Redis](Advanced_LLMs_1b_BigQuery_Palm_Redis.ipynb)
+- [Exercise 1a - Semantic cache using Embeddings and FAISS vector DB](./module1/Advanced_LLMs_1a_Semantic_cache_from_scratch.ipynb)
+- [Exercise 1b - RAG application using BigQuery and Redis](./module1/Advanced_LLMs_1b_BigQuery_Palm_Redis.ipynb)
 
 ### Links
 
@@ -20,9 +20,9 @@ This repository contains some exercises done at the course **Enterprise RAG and 
 
 ### Exercises
 
-- [Exercise 2a - Run locally Mistral-7B-Instruct](./Advanced_LLM_Module_2a_Mistral_7b_instruct.ipynb)
-- [Exercise 2b - Run previously application with GROK](Advanced_LLM_Module_2b_Testing_Mistral_7b_instruct.ipynb)
-- [Exercise 2c - Fine-tuning with unsloth an Urdu chatbot](./Advanced_LLM_Module_2c_Urdu_Llama.ipynb)
+- [Exercise 2a - Run locally Mistral-7B-Instruct](./module2/Advanced_LLM_Module_2a_Mistral_7b_instruct.ipynb)
+- [Exercise 2b - Run previously application with GROK](module2/Advanced_LLM_Module_2b_Testing_Mistral_7b_instruct.ipynb)
+- [Exercise 2c - Fine-tuning with unsloth an Urdu chatbot](./module2/Advanced_LLM_Module_2c_Urdu_Llama.ipynb)
 
 ### Links
 - [Multi-task Language Understanding](https://paperswithcode.com/task/multi-task-language-understanding) - A collection of papers, code and evaluation results for multi-task language understanding.
